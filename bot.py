@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filters
 import json
 
-TOKEN = "8756996265:AAGF9s1oCaRMA-eQAHf-VuDcd8_72aNwb8E"
+TOKEN = ""
 DB_FILE = "links.json"
 
 try:
